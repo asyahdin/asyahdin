@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Aishah Din
-- 👀 I’m interested in data analyst using Python and modeling
-- 🌱 I’m currently working on projects for data science/data analyst
+- 👋 Hi, I’m Aishah 
+- 👀 I’m interested in data analyst using Python
+- 🌱 I’m currently working on projects for data science analyst
 - 📫 Feel free to reach me at :<a href=www.linkedin.com/in/nur-aishah-mohd-din>LinkedIn</a>
-- ⚡ Fun fact: I am a creative graphic designer 
+- ⚡ Fun fact: I am a creative person
 
 <!---
 asyahdin/asyahdin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
